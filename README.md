@@ -3,11 +3,11 @@ This project presents an interactive Crime Analysis Dashboard built using Power 
 
 # Crime Analysis Dashboard
 
-### Dashboard:
+### Page 1:
 
 ![Crime Dashboard1](https://github.com/user-attachments/assets/8f4c2851-4168-4c66-8a06-547abf2639d3)
 
-### Dashboard 2:
+### Page 2:
 
 ![Crime Dashboard2](https://github.com/user-attachments/assets/0b48d55a-7be8-416f-9f70-538732ecaf49)
 
@@ -57,7 +57,7 @@ This project presents an interactive Crime Analysis Dashboard built using Power 
 
 ## Technologies Used
 - **Power BI** for data visualization
-- **SQL/Excel** for data processing (if applicable)
+- **Excel** for data processing (Source: CSV file)
 - **Geospatial Mapping** for crime distribution analysis
 
 ## Usage
