@@ -3,6 +3,9 @@ This project presents an interactive Crime Analysis Dashboard built using Power 
 
 # Crime Analysis Dashboard
 
+## Overview
+This project presents an interactive Crime Analysis Dashboard built using Power BI. The dashboard visualizes crime data across multiple dimensions, including crime types, time patterns, locations, and resolution rates. It aims to provide key insights into crime trends and patterns to support decision-making in law enforcement, urban planning, and public safety.
+
 ### Page 1:
 
 ![Crime Dashboard1](https://github.com/user-attachments/assets/8f4c2851-4168-4c66-8a06-547abf2639d3)
